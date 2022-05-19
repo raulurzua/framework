@@ -41,6 +41,6 @@ These principles are in no particular order, and they should be taken as a whole
 * Internal team benchmarking drives best practices and celebrates wins
 * Industry peer-level benchmarking determines how your company is performing
 
-## Take advantage of the variable cost model of the cloud.
+## Take advantage of the variable cost model of the cloud
 * Rightsizing instances and services help drive appropriate resourcing levels
 * Comparing pricing between services and resource types drives better decisions
